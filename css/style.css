@@ -1,11 +1,14 @@
 *{
-  background-size: cover;
+  box-sizing: border-box;
 }
 /* GMAIL LOGO + TEXT */
 body{
   background-image: url("../img/background.jpg");
   width: 50%;
   margin: auto;
+  background-size: cover;
+}
+
 }
 header > span {
   font-size: 35px;
